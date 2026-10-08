@@ -1,7 +1,7 @@
 # Online-Pathshala
  📚 COURSE SYLLABUS FOR CORE JAVA 
- ![Uploading Core Java Roadmap Infographic.png…]()
 
+<img width="1312" height="1199" alt="Core Java Roadmap" src="https://github.com/user-attachments/assets/5b023332-3694-4e80-a9fe-2c35a8199fa0" />
 
 Practical Project
 
