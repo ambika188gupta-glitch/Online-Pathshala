@@ -1,5 +1,5 @@
 # Online-Pathshala
-<h1> 📚 COURSE SYLLABUS FOR CORE JAVA <h1>
+ 📚 COURSE SYLLABUS FOR CORE JAVA 
 
 Practical Project
 
