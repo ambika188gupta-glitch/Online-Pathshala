@@ -2,28 +2,35 @@
 📚 COURSE SYLLABUS FOR CORE JAVA
 <h2>MODULE 01 — JAVA FUNDAMENTALS</h2>
 
-Introduction to Java<br>
-What is Java?<br>
-History &amp; Evolution of Java<br>
-Features of Java<br>
-Applications of Java<br>
-Java Editions<br>
-Java Program Execution Flow<br>
-JDK, JRE &amp; JVM<br>
-What is JDK?<br>
-What is JRE?<br>
-What is JVM?<br>
-JDK vs JRE vs JVM<br>
-Java Bytecode<br>
-Platform Independence<br>
-"Write Once, Run Anywhere"<br>
-First Java Program<br>
-Java Installation &amp; Setup<br>
-IDE Introduction<br>
-Java Program Structure<br>
-main() Method<br>
-System.out.println()<br>
-Compilation &amp; Execution
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introduction to Java</title>
+</head>
+<body>
+
+<p>Introduction to Java</p>
+<p>What is Java?</p>
+<p>History &amp; Evolution of Java</p>
+<p>Features of Java</p>
+<p>Applications of Java</p>
+<p>Java Editions</p>
+<p>Java Program Execution Flow</p>
+<p>JDK, JRE &amp; JVM</p>
+<p>What is JDK?</p>
+<p>What is JRE?</p>
+<p>What is JVM?</p>
+<p>JDK vs JRE vs JVM</p>
+<p>Java Bytecode</p>
+<p>Platform Independence</p>
+<p>"Write Once, Run Anywhere"</p>
+<p>First Java Program</p>
+<p>Java Installation &amp; Setup</p>
+<p>IDE Introduction</p>
+<p>Java Program Structure</p>
+<p>main() Method</p>
+<p>System.out.println()</p>
+<p>Compilation &amp; Execution</p>
 
 <h2>MODULE 02 — VARIABLES & DATA TYPES</h2>
 Variables
