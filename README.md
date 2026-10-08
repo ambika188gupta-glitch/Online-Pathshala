@@ -2,28 +2,28 @@
 📚 COURSE SYLLABUS FOR CORE JAVA
 <h2>MODULE 01 — JAVA FUNDAMENTALS</h2>
 
-Introduction to Java
-What is Java?
-History & Evolution of Java
-Features of Java
-Applications of Java
-Java Editions
-Java Program Execution Flow
-JDK, JRE & JVM
-What is JDK?
-What is JRE?
-What is JVM?
-JDK vs JRE vs JVM
-Java Bytecode
-Platform Independence
-"Write Once, Run Anywhere"
-First Java Program
-Java Installation & Setup
-IDE Introduction
-Java Program Structure
-main() Method
-System.out.println()
-Compilation & Execution
+Introduction to Java<br>
+What is Java?<br>
+History &amp; Evolution of Java<br>
+Features of Java<br>
+Applications of Java<br>
+Java Editions<br>
+Java Program Execution Flow<br>
+JDK, JRE &amp; JVM<br>
+What is JDK?<br>
+What is JRE?<br>
+What is JVM?<br>
+JDK vs JRE vs JVM<br>
+Java Bytecode<br>
+Platform Independence<br>
+"Write Once, Run Anywhere"<br>
+First Java Program<br>
+Java Installation &amp; Setup<br>
+IDE Introduction<br>
+Java Program Structure<br>
+main() Method<br>
+System.out.println()<br>
+Compilation &amp; Execution
 
 <h2>MODULE 02 — VARIABLES & DATA TYPES</h2>
 Variables
