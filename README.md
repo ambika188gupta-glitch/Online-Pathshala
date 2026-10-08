@@ -1,13 +1,6 @@
 # Online-Pathshala
-📚 COURSE SYLLABUS FOR CORE JAVA
+<h1> 📚 COURSE SYLLABUS FOR CORE JAVA <h1>
 <h2>MODULE 01 — JAVA FUNDAMENTALS</h2>
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Introduction to Java</title>
-</head>
-<body>
 
 <p>Introduction to Java</p>
 <p>What is Java?</p>
@@ -33,23 +26,25 @@
 <p>Compilation &amp; Execution</p>
 
 <h2>MODULE 02 — VARIABLES & DATA TYPES</h2>
-Variables
-Constants
-Naming Conventions
-Primitive Data Types
-Non-Primitive Data Types
-byte, short, int, long
-float, double
-char
-boolean
-String
-Type Inference Basics
-Type Casting
-Widening Casting
-Narrowing Casting
-Implicit Conversion
-Explicit Conversion
-Integer vs Decimal Division
+Variables<br>
+Constants<br>
+Naming Conventions<br>
+Primitive Data Types<br>
+Non-Primitive Data Types<br>
+byte, short, int, long<br>
+float, double<br>
+char<br>
+boolean<br>
+String<br>
+Type Inference Basics<br>
+Type Casting<br>
+Widening Casting<br>
+Narrowing Casting<br>
+Implicit Conversion<br>
+Explicit Conversion<br>
+Integer vs Decimal Division<br>
+
+
 MODULE 03 — OPERATORS
 Arithmetic Operators
 +
